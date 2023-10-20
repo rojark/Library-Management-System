@@ -34,6 +34,8 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 1. Clone the repository:
+2. For both frontend and server code install node Modules
+3. Run the code 
 
    ```bash
    git clone https://github.com/yourusername/library-management-system.git
