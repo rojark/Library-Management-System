@@ -38,8 +38,7 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clone https://github.com/yourusername/library-management-system.git
 
-   ```bash
-    npm install --  ## Node Modules for both forntend server 
+   npm install --  ## Node Modules for both forntend server 
 
 This git project consists of two Folders
 
